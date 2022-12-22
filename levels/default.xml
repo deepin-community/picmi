@@ -1,0 +1,616 @@
+<?xml version="1.0"?>
+
+<picmi name="Default">
+
+    <board name="Basketball" author="Jakob Gruber, Moni Linke" difficulty="6">
+        <xpm>default/basketball.xpm</xpm>
+    </board>
+
+    <board name="Skull" author="Jakob Gruber" difficulty="6">
+        <row>-------11111-------</row>
+        <row>------1111111------</row>
+        <row>-----111111111-----</row>
+        <row>-----111111111-----</row>
+        <row>----111-111-111----</row>
+        <row>----11---1---11----</row>
+        <row>----11---1---11----</row>
+        <row>-----11-111-11-----</row>
+        <row>-----11111111------</row>
+        <row>------1111111------</row>
+        <row>111----11111----111</row>
+        <row>-111---11111---111-</row>
+        <row>1111111------111111</row>
+        <row>-11--111---1111-11-</row>
+        <row>-------11111-------</row>
+        <row>--1---1111111---1--</row>
+        <row>-111111-----111111-</row>
+        <row>-1111---------1111-</row>
+        <row>--111---------111--</row>
+    </board>
+
+    <board name="Wheelchair" author="Jakob Gruber" difficulty="6">
+        <row>-----1111-------------</row>
+        <row>-----1111-------------</row>
+        <row>-----1111-------------</row>
+        <row>-----111--------------</row>
+        <row>-----11---------------</row>
+        <row>-----11---------------</row>
+        <row>-----11---------------</row>
+        <row>-----11---------------</row>
+        <row>-----11---------------</row>
+        <row>-----11111111---------</row>
+        <row>---1-11111111---------</row>
+        <row>--11-11---------------</row>
+        <row>-111-111--------------</row>
+        <row>-11---1111111111------</row>
+        <row>11----11111111111-----</row>
+        <row>11-------------11-----</row>
+        <row>11--------------1-----</row>
+        <row>11--------------11----</row>
+        <row>11--------------11----</row>
+        <row>11------------1--11---</row>
+        <row>111-----------1--11111</row>
+        <row>-11----------11---111-</row>
+        <row>--11--------11----1---</row>
+        <row>---1111111111---------</row>
+        <row>----11111111----------</row>
+    </board>
+
+    <board name="Baby Chick" author="Moni Linke" difficulty="5">
+        <xpm>default/baby_chick.xpm</xpm>
+    </board>
+
+    <board name="Pirate Dog" author="Moni Linke" difficulty="5">
+        <xpm>default/pirate_dog.xpm</xpm>
+    </board>
+
+    <board name="Clown" author="Moni Linke" difficulty="5">
+        <xpm>default/clown.xpm</xpm>
+    </board>
+
+    <board name="Pirate Ship" author="Frank Uebbing" difficulty="5">
+        <xpm>default/pirate_ship.xpm</xpm>
+    </board>
+
+    <board name="Panda" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <xpm>default/panda.xpm</xpm>
+    </board>
+
+    <board name="Elephant" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <xpm>default/elephant.xpm</xpm>
+    </board>
+
+    <board name="Claus the cat" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <xpm>default/clausthecat.xpm</xpm>
+    </board>
+
+    <board name="Bird" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <xpm>default/bird.xpm</xpm>
+    </board>
+
+    <board name="Zebra" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <xpm>default/zebra.xpm</xpm>
+    </board>
+
+    <board name="Antique Phone" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <xpm>default/antique_phone.xpm</xpm>
+    </board>
+
+    <board name="Treble Clef" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <xpm>default/clef.xpm</xpm>
+    </board>
+
+    <board name="Halloween" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <xpm>default/halloween.xpm</xpm>
+    </board>
+
+    <board name="Hourglass" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <xpm>default/hourglass.xpm</xpm>
+    </board>
+
+    <board name="Mobile Phone" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <xpm>default/mobile_phone.xpm</xpm>
+    </board>
+
+    <board name="Robot" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <xpm>default/robot.xpm</xpm>
+    </board>
+
+    <board name="Bike" author="Frank Uebbing" difficulty="4">
+        <xpm>default/bike.xpm</xpm>
+    </board>
+
+    <board name="Penguin" author="Jakob Gruber, Moni Linke" difficulty="4">
+        <row>----------1111-----------</row>
+        <row>---------1111111---------</row>
+        <row>--------11111111---------</row>
+        <row>-------1111111111--------</row>
+        <row>-------1---11---1--------</row>
+        <row>-------1-1-11-1-1--------</row>
+        <row>-------1-1-11-1-1--------</row>
+        <row>-------1111--1111--------</row>
+        <row>--------1-------1--------</row>
+        <row>--------1-------1--------</row>
+        <row>--------111---111--------</row>
+        <row>--------1111111111-------</row>
+        <row>--------1-11111--11------</row>
+        <row>-------11--------111-----</row>
+        <row>------11---------1111----</row>
+        <row>-----111----------1111---</row>
+        <row>----111-----------1111---</row>
+        <row>----11-------------111---</row>
+        <row>---111-------------1111--</row>
+        <row>---111-------------1111--</row>
+        <row>---111-------------1111--</row>
+        <row>------1------------111---</row>
+        <row>---11-111--------11-1----</row>
+        <row>111111-11--------11--11--</row>
+        <row>1111111-11-------111111--</row>
+        <row>-111111--1-----1-11111111</row>
+        <row>11111111------11-11111111</row>
+        <row>111111111-111111-1111111-</row>
+        <row>111111111-111111-11111---</row>
+        <row>-----111---------111-----</row>
+    </board>
+
+    <board name="Baby Panda" author="Moni Linke" difficulty="3">
+        <xpm>default/baby_panda.xpm</xpm>
+    </board>
+
+    <board name="House" author="Frank Uebbing" difficulty="3">
+        <xpm>default/house.xpm</xpm>
+    </board>
+
+    <board name="Soccer" author="Frank Uebbing" difficulty="3">
+        <xpm>default/soccer.xpm</xpm>
+    </board>
+
+    <board name="Alarm Clock" author="Jakob Gruber, Moni Linke" difficulty="3">
+        <row>----1-----11111-----1----</row>
+        <row>--11111---11111---11111--</row>
+        <row>-111111-----1-----111111-</row>
+        <row>11111111----1----11111111</row>
+        <row>111111----11111----111111</row>
+        <row>11111--11111111111--11111</row>
+        <row>-11---1111111111111---11-</row>
+        <row>-11--11111--1--11111--11-</row>
+        <row>----1111----1----1111----</row>
+        <row>---111------1-----1111---</row>
+        <row>--1111-------------1111--</row>
+        <row>--11----------------111--</row>
+        <row>--11--------1-------111--</row>
+        <row>-111--------1--------111-</row>
+        <row>-111--------1--------111-</row>
+        <row>-111111----11-----111111-</row>
+        <row>-111------11---------111-</row>
+        <row>-111-----11----------111-</row>
+        <row>--111---------------111--</row>
+        <row>--111---------------111--</row>
+        <row>--1111-------------1111--</row>
+        <row>---111------1-----1111---</row>
+        <row>----1111----1----1111----</row>
+        <row>----111111--1--111111----</row>
+        <row>----11111111111111111----</row>
+        <row>----11-11111111111-11----</row>
+        <row>---11-----11111-----11---</row>
+        <row>---1-----------------1---</row>
+    </board>
+
+    <board name="Taxi!" author="Jakob Gruber" difficulty="3">
+        <row>11------111----------</row>
+        <row>111----11111---------</row>
+        <row>-111---11111---------</row>
+        <row>--111---111----------</row>
+        <row>---111---------------</row>
+        <row>----1111111111-------</row>
+        <row>-----1111111111------</row>
+        <row>------111111111------</row>
+        <row>-------11111111------</row>
+        <row>-------11111-11------</row>
+        <row>-------11111111------</row>
+        <row>-------11111111------</row>
+        <row>-------11111111------</row>
+        <row>-------11111111------</row>
+        <row>-------111111111-----</row>
+        <row>-------111111---1----</row>
+        <row>-------11-11111111-11</row>
+        <row>-------11-11111111-11</row>
+        <row>-------11-11111111-11</row>
+        <row>-------11-11111111-11</row>
+        <row>-------11-11111111-11</row>
+        <row>-------11-11111111-11</row>
+        <row>-------11-11111111-11</row>
+        <row>-------11-11111111-11</row>
+        <row>-------11-111--------</row>
+        <row>-------11-111--------</row>
+        <row>-------11-111--------</row>
+        <row>-------11-111--------</row>
+    </board>
+
+    <board name="Marker" author="Jakob Gruber" difficulty="3">
+        <row>---------1111--</row>
+        <row>--------111111-</row>
+        <row>-------111---11</row>
+        <row>------11111--11</row>
+        <row>-----1111111-11</row>
+        <row>----11111111111</row>
+        <row>---11--1111111-</row>
+        <row>--11-----1111--</row>
+        <row>-11------111---</row>
+        <row>11------111----</row>
+        <row>111----111-----</row>
+        <row>1-11--111------</row>
+        <row>1--11111-------</row>
+        <row>11--111--------</row>
+        <row>111111---------</row>
+    </board>
+
+    <board name="Thumbs Up" author="Jakob Gruber, Moni Linke" difficulty="2">
+        <row>---------111----</row>
+        <row>---------1--1---</row>
+        <row>--------11--1---</row>
+        <row>--------1---1---</row>
+        <row>-------11---1---</row>
+        <row>11111-11---1111-</row>
+        <row>1111111-------11</row>
+        <row>11111---------11</row>
+        <row>11111---------11</row>
+        <row>11111---------11</row>
+        <row>11111---------1-</row>
+        <row>11111---------1-</row>
+        <row>111111--------1-</row>
+        <row>111111111----11-</row>
+        <row>11111---111111--</row>
+    </board>
+
+    <board name="Cup" author="Jakob Gruber, Moni Linke" difficulty="2">
+        <row>-11111111-</row>
+        <row>1-111111-1</row>
+        <row>1-11--11-1</row>
+        <row>1-11--11-1</row>
+        <row>-11111111-</row>
+        <row>--111111--</row>
+        <row>---1111---</row>
+        <row>----11----</row>
+        <row>---1111---</row>
+        <row>--111111--</row>
+    </board>
+
+    <board name="Dinner Time" author="Jakob Gruber" difficulty="2">
+        <row>1-11-11-11-1111</row>
+        <row>1-11-11-11-11-1</row>
+        <row>1-11-11-1111--1</row>
+        <row>1-11-11-111---1</row>
+        <row>1-11-11-111---1</row>
+        <row>1--1--1-11----1</row>
+        <row>11------11----1</row>
+        <row>111----111----1</row>
+        <row>-11---1111----1</row>
+        <row>--11--1--11---1</row>
+        <row>--11--1---11--1</row>
+        <row>--11--1---11--1</row>
+        <row>--11--1---11--1</row>
+        <row>--11--1---11--1</row>
+        <row>--11--1---11--1</row>
+        <row>--11-11---11111</row>
+        <row>---1111----111-</row>
+    </board>
+
+    <board name="Wine Glass" author="Jakob Gruber" difficulty="2">
+        <row>--111111111111--</row>
+        <row>-11111111111111-</row>
+        <row>-1------------1-</row>
+        <row>11------------11</row>
+        <row>11------------11</row>
+        <row>11------------11</row>
+        <row>11-1111111111-11</row>
+        <row>11-1111111111-11</row>
+        <row>-1-1111111111-1-</row>
+        <row>-11-11111111-11-</row>
+        <row>--11--1111--11--</row>
+        <row>---111----111---</row>
+        <row>-----111111-----</row>
+        <row>-------11-------</row>
+        <row>-------11-------</row>
+        <row>-------11-------</row>
+        <row>-------11-------</row>
+        <row>------1111------</row>
+        <row>----11111111----</row>
+    </board>
+
+    <board name="Cocktail Glass" author="Jakob Gruber" difficulty="2">
+        <row>1111--------</row>
+        <row>---11--1111-</row>
+        <row>----1-11--11</row>
+        <row>----1-1----1</row>
+        <row>-11111111--1</row>
+        <row>-1--1---1-11</row>
+        <row>-1-1111-111-</row>
+        <row>-1-1111-1---</row>
+        <row>-1-1111-1---</row>
+        <row>-1-1111-1---</row>
+        <row>-1-1111-1---</row>
+        <row>-1-1111-1---</row>
+        <row>-11----11---</row>
+        <row>--111111----</row>
+    </board>
+
+    <board name="Escalator" author="Jakob Gruber" difficulty="2">
+        <row>-----------111----------------</row>
+        <row>-----------111----------------</row>
+        <row>-----------111------11111111--</row>
+        <row>-----------111----11111111111-</row>
+        <row>------------1----111-------11-</row>
+        <row>-----------111--111---------11</row>
+        <row>-----------111-111----------11</row>
+        <row>-----------111111----------11-</row>
+        <row>-----------11111-----11111111-</row>
+        <row>-----------1111-----1111111---</row>
+        <row>-----------111-----111--------</row>
+        <row>----------111-----111---------</row>
+        <row>---------111-----111----------</row>
+        <row>--------111-----111-----------</row>
+        <row>-------111-----111------------</row>
+        <row>--1111111-----111-------------</row>
+        <row>-1111111-----111--------------</row>
+        <row>111---------111---------------</row>
+        <row>11---------111----------------</row>
+        <row>11--------111-----------------</row>
+        <row>11-------111------------------</row>
+        <row>-1111111111-------------------</row>
+        <row>--11111111111111111111111111--</row>
+    </board>
+
+    <board name="Helicopter" author="Jakob Gruber" difficulty="2">
+        <row>------------------------------</row>
+        <row>-----11111111111111111111111--</row>
+        <row>----------------11------------</row>
+        <row>-11111----------11------------</row>
+        <row>-1---1111111111111111111------</row>
+        <row>-1-11111111111111111111111----</row>
+        <row>-1-11111111111111---1--1-11---</row>
+        <row>-11-1111111111111---1--1--1---</row>
+        <row>--------111111111---1--1---1--</row>
+        <row>-----------11111111111111111--</row>
+        <row>------------11111111111111111-</row>
+        <row>-------------1111111111111111-</row>
+        <row>-------------111111111111111--</row>
+        <row>------------------------------</row>
+        <row>------------------------------</row>
+        <row>------------1111111111111111--</row>
+        <row>------------11111111111111111-</row>
+        <row>------------11111111111111111-</row>
+        <row>------------------------------</row>
+        <row>------------------------------</row>
+    </board>
+
+    <board name="Letter A" author="Jakob Gruber" difficulty="2">
+        <row>--111-----</row>
+        <row>--1111----</row>
+        <row>--11-11---</row>
+        <row>--11-11---</row>
+        <row>--11-111--</row>
+        <row>-1111111--</row>
+        <row>-11111111-</row>
+        <row>-11----11-</row>
+        <row>-11----111</row>
+        <row>-11-----11</row>
+    </board>
+
+    <board name="Screw" author="Zack Rusin" difficulty="2">
+        <row>111111111111111</row>
+        <row>11111111---1111</row>
+        <row>1111111-----111</row>
+        <row>1111111------11</row>
+        <row>1111111-------1</row>
+        <row>11111111------1</row>
+        <row>111111-11-----1</row>
+        <row>11111---11---11</row>
+        <row>1111-----111111</row>
+        <row>111-----1111111</row>
+        <row>11-----11111111</row>
+        <row>11----111111111</row>
+        <row>11---1111111111</row>
+        <row>111111111111111</row>
+        <row>111111111111111</row>
+    </board>
+
+    <board name="Cup of coffee" author="Zack Rusin" difficulty="2">
+        <row>111111111111111</row>
+        <row>111111111111111</row>
+        <row>11111-------111</row>
+        <row>1111-1111111-11</row>
+        <row>111-111---111-1</row>
+        <row>111-11---1111-1</row>
+        <row>1----1111111--1</row>
+        <row>1-1-----------1</row>
+        <row>1-11---------11</row>
+        <row>11-1---------11</row>
+        <row>11111-------111</row>
+        <row>11--11-----11--</row>
+        <row>11---1111111---</row>
+        <row>111-----------1</row>
+        <row>11111-------111</row>
+    </board>
+
+    <board name="Lion" author="Zack Rusin" difficulty="2">
+        <row>---11111111----</row>
+        <row>-11111111111---</row>
+        <row>-1-1-11----11--</row>
+        <row>111-1--1--111--</row>
+        <row>111-1--1--1111-</row>
+        <row>11--1111---111-</row>
+        <row>11-1-1--1--111-</row>
+        <row>11-11-111-1111-</row>
+        <row>111------1111--</row>
+        <row>-111111111111--</row>
+        <row>--1111111111-1-</row>
+        <row>-11----1-1----1</row>
+        <row>11---111-111--1</row>
+        <row>1---1----1----1</row>
+        <row>111111111111111</row>
+    </board>
+
+    <board name="Gas Lamp" author="Zack Rusin" difficulty="2">
+        <row>-----11111-----</row>
+        <row>-----1---1-----</row>
+        <row>---111111111---</row>
+        <row>--11111111111--</row>
+        <row>-1111111111111-</row>
+        <row>----1-----1----</row>
+        <row>---1---1---1---</row>
+        <row>---1--111--1---</row>
+        <row>---1--111--1---</row>
+        <row>---1--1-1--1---</row>
+        <row>----1-1-1-1----</row>
+        <row>---111111111---</row>
+        <row>--11111111111--</row>
+        <row>--11111111111--</row>
+        <row>--11111111111--</row>
+    </board>
+
+    <board name="Monkey" author="Zack Rusin" difficulty="2">
+        <row>----11111------</row>
+        <row>---1111111-----</row>
+        <row>--111111111----</row>
+        <row>--1--11--11-111</row>
+        <row>--1------11-1-1</row>
+        <row>-11-1--1-111--1</row>
+        <row>-1---------1--1</row>
+        <row>-1-1-1-1---11-1</row>
+        <row>-1111-11-1111-1</row>
+        <row>--1-----1111111</row>
+        <row>111111111111111</row>
+        <row>1--1-1--1--111-</row>
+        <row>1---1111---111-</row>
+        <row>11--1111--1111-</row>
+        <row>-111111111111--</row>
+    </board>
+
+    <board name="Teddy Bear" author="Zack Rusin" difficulty="2">
+        <row>111111111111111</row>
+        <row>111---111---111</row>
+        <row>11-11-----11-11</row>
+        <row>11-1-1--1--1-11</row>
+        <row>11---1--1----11</row>
+        <row>111--111----111</row>
+        <row>111-1-1--1--111</row>
+        <row>1-1--1111---1-1</row>
+        <row>1--1-------1--1</row>
+        <row>11-11111111-111</row>
+        <row>1-11-1111-11--1</row>
+        <row>---1-1--1-1----</row>
+        <row>---1------1----</row>
+        <row>1--11----11---1</row>
+        <row>111111111111111</row>
+    </board>
+
+    <board name="Policeman" author="Moni Linke" difficulty="2">
+        <xpm>default/policeman.xpm</xpm>
+    </board>
+
+    <board name="Santa Claus" author="Moni Linke" difficulty="2">
+        <xpm>default/santa_claus.xpm</xpm>
+    </board>
+
+    <board name="Bass Clef" author="Jakob Gruber, Moni Linke" difficulty="2">
+        <xpm>default/bass_clef.xpm</xpm>
+    </board>
+
+    <board name="Phone" author="Jakob Gruber, Moni Linke" difficulty="2">
+        <xpm>default/phone.xpm</xpm>
+    </board>
+
+    <board name="Shopping Cart" author="Jakob Gruber, Moni Linke" difficulty="2">
+        <xpm>default/shopping_cart.xpm</xpm>
+    </board>
+
+    <board name="Picmi" author="Frank Uebbing" difficulty="2">
+        <xpm>default/picmi.xpm</xpm>
+    </board>
+
+    <board name="Calculator" author="Jakob Gruber, Moni Linke" difficulty="1">
+        <xpm>default/calculator.xpm</xpm>
+    </board>
+
+    <board name="Camera" author="Jakob Gruber, Moni Linke" difficulty="1">
+        <xpm>default/camera.xpm</xpm>
+    </board>
+
+    <board name="Car" author="Jakob Gruber, Moni Linke" difficulty="1">
+        <row>---11111--</row>
+        <row>---1-1-1--</row>
+        <row>--1--1--1-</row>
+        <row>1111111111</row>
+        <row>1111111111</row>
+        <row>1---11---1</row>
+        <row>1-1-11-1-1</row>
+        <row>--1----1--</row>
+    </board>
+
+    <board name="Robot" author="Jakob Gruber, Moni Linke" difficulty="1">
+        <row>-11111111-</row>
+        <row>--1-11-1--</row>
+        <row>--111111--</row>
+        <row>----------</row>
+        <row>1-111111-1</row>
+        <row>1-111111-1</row>
+        <row>1-111111-1</row>
+        <row>--111111--</row>
+        <row>---1--1---</row>
+        <row>---1--1---</row>
+    </board>
+
+    <board name="Microphone" author="Jakob Gruber, Moni Linke" difficulty="1">
+        <row>---11---</row>
+        <row>--1-11--</row>
+        <row>1-11-1-1</row>
+        <row>1-1-11-1</row>
+        <row>1-11-1-1</row>
+        <row>11-11-11</row>
+        <row>-11--11-</row>
+        <row>--1111--</row>
+        <row>---11---</row>
+        <row>--1111--</row>
+    </board>
+
+    <board name="Floppy Disk" author="Jakob Gruber, Moni Linke" difficulty="1">
+        <row>111111111-</row>
+        <row>1-1111-1-1</row>
+        <row>1-111111-1</row>
+        <row>1--------1</row>
+        <row>1-111111-1</row>
+        <row>1-1----1-1</row>
+        <row>1-1----1-1</row>
+        <row>1-1----1-1</row>
+        <row>1-1----1-1</row>
+        <row>1111111111</row>
+    </board>
+
+    <board name="Printer" author="Jakob Gruber, Moni Linke" difficulty="1">
+        <row>--111111--</row>
+        <row>1111111111</row>
+        <row>11--11--11</row>
+        <row>1111111111</row>
+        <row>11------11</row>
+        <row>11-1111-11</row>
+        <row>11-1--1-11</row>
+        <row>---1--1---</row>
+        <row>---1--1---</row>
+        <row>---1111---</row>
+    </board>
+
+    <board name="Smiley" author="Jakob Gruber, Moni Linke" difficulty="1">
+        <row>--111111--</row>
+        <row>-11----11-</row>
+        <row>11------11</row>
+        <row>1-11--11-1</row>
+        <row>1-11--11-1</row>
+        <row>1--------1</row>
+        <row>11-1--1-11</row>
+        <row>-11-11-11-</row>
+        <row>--11--11--</row>
+        <row>---1111---</row>
+    </board>
+
+</picmi>

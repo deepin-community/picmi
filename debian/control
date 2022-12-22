@@ -1,0 +1,41 @@
+Source: picmi
+Section: games
+Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Norbert Preining <norbert@preining.info>
+Build-Depends: cmake (>= 3.16~),
+               debhelper-compat (= 13),
+               extra-cmake-modules (>= 5.83.0~),
+               gettext,
+               libkf5coreaddons-dev (>= 5.83.0~),
+               libkf5crash-dev (>= 5.83.0~),
+               libkf5dbusaddons-dev (>= 5.83.0~),
+               libkf5declarative-dev (>= 5.83.0~),
+               libkf5doctools-dev (>= 5.83.0~),
+               libkf5i18n-dev (>= 5.83.0~),
+               libkf5kdegames-dev (>= 5.2.0~),
+               libkf5kio-dev (>= 5.83.0~),
+               libkf5newstuff-dev (>= 5.83.0~),
+               libkf5xmlgui-dev (>= 5.83.0~),
+               libqt5svg5-dev (>= 5.15.0~),
+               pkg-kde-tools (>= 0.14),
+               qtbase5-dev (>= 5.15.0~),
+               qtdeclarative5-dev (>= 5.15.0~),
+Standards-Version: 4.5.1
+Rules-Requires-Root: no
+Homepage: http://games.kde.org/
+Vcs-Browser: https://salsa.debian.org/qt-kde-team/kde/picmi
+Vcs-Git: https://salsa.debian.org/qt-kde-team/kde/picmi.git
+
+Package: picmi
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
+Description: Number logic game
+ Picmi is a number logic game in which cells in a grid have to be colored or
+ left blank according to numbers given at the side of the grid to reveal a
+ hidden picture.
+ .
+ This package is part of the KDE games module.

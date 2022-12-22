@@ -1,0 +1,42 @@
+PICMI
+
+
+Project Information
+-------------------
+
+Picmi is a number logic game in which cells in a grid have to be colored or
+left blank according to numbers given at the side of the grid to reveal a
+hidden picture.
+
+Installation instructions are located in the INSTALL file.
+
+
+Controls
+-------------------
+
+The ingame help provides information about controls.
+
+
+License
+-------------------
+
+Picmi is licensed under the terms of the GNU General Public License version 2,
+or (at your option) any later version.
+
+
+Contact / More Information
+-------------------
+
+Email: jakob.gruber@gmail.com
+Project Homepage: https://kde.org/applications/games/org.kde.picmi
+
+
+Sources
+-------------------
+
+Nuno Pinheiro has kindly provided the application icon.
+The default background image is Atra Dot, created by Eugene Trounev (included
+in the KDE wallpapers collection).
+
+
+Enjoy!

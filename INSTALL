@@ -1,0 +1,63 @@
+PICMI
+
+
+General Information
+-------------------
+
+Picmi has the following dependencies:
+
+At run time:
+qt, kdelibs, libkdegames
+
+Additionally, at compile time:
+cmake, automoc4
+
+
+The default installation directories are
+
+$prefix/bin                     (executable)
+$prefix/share/apps/picmi        (graphics and levels)
+$prefix/share/applications/kde4 (.desktop file)
+$prefix/share/doc/kde/          (documentation)
+$prefix/share/icons/            (icons)
+~/.config/picmi/                (user configurations and highscores, created at runtime)
+
+$prefix can be configured by setting the CMAKE_INSTALL_PREFIX variable when running cmake and defaults to /usr/local/ if not set.
+
+
+
+Manual Installation
+-------------------
+
+Assuming no defaults are changed,
+in the picmi directory containing CMakeLists.txt, execute:
+
+cmake -DCMAKE_INSTALL_PREFIX="/usr" .
+make -f Makefile
+sudo make install
+
+CMAKE_INSTALL_PREFIX can be set as required.
+This will install to the default directories as specified above. For packaging,
+
+make DESTDIR="/your/packaging/dir" install
+
+will install to /your/packaging/dir.
+
+All done, execute picmi to run the game.
+
+
+
+Cross Platform Compatibility
+----------------------------
+
+Picmi should be compatible with any platform supported by Qt and KDE4. At the
+very least, this means Linux, Mac and Windows installs should work just fine.
+
+To install on another platform than Linux, edit CMakeLists.txt and set picmi_FILEPATH
+to a location appropriate to your platform.
+
+Settings and high scores will be automatically saved to platform-dependent locations;
+for more details, see the QSettings documentation.
+
+
+Enjoy!
